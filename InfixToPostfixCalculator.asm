@@ -1,7 +1,3 @@
-#a41674
-#Samuel Fernandes
-#LEI, 2016/2017.
-
 .data
 
 infix: .space 256
