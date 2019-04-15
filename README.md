@@ -10,3 +10,4 @@ Restrictions:
      
   -InfixToPostfixWithPriorityRules.asm:
      ->IMPORTANT! GIVEN INPUT MUST FINISH WITH A ".", OTHERWISE IT WONT WORK!
+     ->Some times when combining parentesis can give a wrong result, for exemple: ((a-b)*(c/d))*e
